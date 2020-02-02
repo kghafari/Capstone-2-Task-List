@@ -1,0 +1,11 @@
+C:\Users\kyleg\source\repos\Capstone2_TaskList\Capstone2_TaskList\bin\Debug\netcoreapp3.0\Capstone2_TaskList.exe
+C:\Users\kyleg\source\repos\Capstone2_TaskList\Capstone2_TaskList\bin\Debug\netcoreapp3.0\Capstone2_TaskList.deps.json
+C:\Users\kyleg\source\repos\Capstone2_TaskList\Capstone2_TaskList\bin\Debug\netcoreapp3.0\Capstone2_TaskList.runtimeconfig.json
+C:\Users\kyleg\source\repos\Capstone2_TaskList\Capstone2_TaskList\bin\Debug\netcoreapp3.0\Capstone2_TaskList.runtimeconfig.dev.json
+C:\Users\kyleg\source\repos\Capstone2_TaskList\Capstone2_TaskList\bin\Debug\netcoreapp3.0\Capstone2_TaskList.dll
+C:\Users\kyleg\source\repos\Capstone2_TaskList\Capstone2_TaskList\bin\Debug\netcoreapp3.0\Capstone2_TaskList.pdb
+C:\Users\kyleg\source\repos\Capstone2_TaskList\Capstone2_TaskList\obj\Debug\netcoreapp3.0\Capstone2_TaskList.csprojAssemblyReference.cache
+C:\Users\kyleg\source\repos\Capstone2_TaskList\Capstone2_TaskList\obj\Debug\netcoreapp3.0\Capstone2_TaskList.AssemblyInfoInputs.cache
+C:\Users\kyleg\source\repos\Capstone2_TaskList\Capstone2_TaskList\obj\Debug\netcoreapp3.0\Capstone2_TaskList.AssemblyInfo.cs
+C:\Users\kyleg\source\repos\Capstone2_TaskList\Capstone2_TaskList\obj\Debug\netcoreapp3.0\Capstone2_TaskList.dll
+C:\Users\kyleg\source\repos\Capstone2_TaskList\Capstone2_TaskList\obj\Debug\netcoreapp3.0\Capstone2_TaskList.pdb

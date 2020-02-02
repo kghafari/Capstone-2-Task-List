@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Capstone2_TaskList/1.0.0": {
+        "runtime": {
+          "Capstone2_TaskList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capstone2_TaskList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
